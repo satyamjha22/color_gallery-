@@ -12,7 +12,7 @@ src/redux/reducer/reducer.js : have experimental reducer data
 The following explains how to setup app.
 
 Step: 1 go to link
-https://github.com/satyamjha22/loginapp_react.git
+https://github.com/satyamjha22/color_gallery-.git
 
 Step: 2 clone or download
 
@@ -31,7 +31,7 @@ init-license=NONE
 ```
 
 ```
-port: 8080
+port: 3000
 username: satyam22oct@gmail.com 
 password: satyam
 ```

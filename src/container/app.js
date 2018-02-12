@@ -11,10 +11,10 @@ const App = (props) =>{
   return(
     <div> 
            {
-             // (!props.dataValidation)?
-              // <LoginPage { ...props }/>
-              // :<ModalGallery />
-              <ModalGallery />
+             (!props.dataValidation)?
+              <LoginPage { ...props }/>
+              :<ModalGallery />
+              
             }
       </div>
     )
